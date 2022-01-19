@@ -14,8 +14,8 @@ void main(){
     e['friend3']="Fahad";
     e['friend4']="Vharmesh";
 
-    u['unwanted teamMember1']="Moiz";
-    u['unwanted teamMember2']="Bhautik";
+    u['extra smartMember1']="Moiz";
+    u['extra smartMember2']="Bhautik";
     
 
     
@@ -26,13 +26,13 @@ void main(){
     var teammember2='Moiz';
     var technology='Flutter';
 
+  pring('This Paragraph is just for fun');
   print('My name is $name');
   print('I am studying in $college');
-  /*print('I have few friends over here,  $friend1 , $friend2 , $friend3 and  $friend4 ');
-  print('We have joined Training sessions in our $college , we also have two unwanted people in our $technology Development team ,$teammember1 & $teammember2 ...');
+  print('I have few friends over here,  $friend1 , $friend2 , $friend3 and  $friend4 ');
+  print('We have joined Training sessions in our $college , we also have two Extra Smart people in our $technology Development team ,$teammember1 & $teammember2 ...');
   print('....Our Chhapri friend $friend1 left our $technology team, because He is noob');
   print('Bye Bye ');
-*/
 
   print('My friends are ${e}');
   print('Few other peeps ${u}');
